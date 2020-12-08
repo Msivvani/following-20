@@ -1,0 +1,1 @@
+sample images of the encoded coordinates to detect the target node 
