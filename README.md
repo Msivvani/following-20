@@ -25,3 +25,5 @@ target node obstacles would be randomly places by organisers on the track.
 The bot should be able to detect the obstacle present on the track and reroute 
 its path to reach the target node
 
+Robot Design: 
+![phase_1&2_assembly](https://github.com/Msivvani/following-20/blob/main/phase_1&2_assembly.jpeg?raw=true)
