@@ -28,3 +28,7 @@ its path to reach the target node
 Robot Design: 
 
 ![phase_1&2_assembly](https://github.com/Msivvani/following-20/blob/main/phase_1&2_assembly.jpeg?raw=true)
+
+sample encoded image of the coordinates of the target node:
+
+![sample_encoded_coordinate](https://github.com/Msivvani/following-20/blob/main/sample_encoded_coordinate.jpeg?raw=true)
